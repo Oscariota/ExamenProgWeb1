@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+}
+main{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: black;
+    max-height: 40px;
+}
+
+#logsony{
+    height: 40px;
+}
+
+#logps{
+    height :50px;
+    padding-top: 5px;
+}
+
+nav{
+    display: flex;
+}
+
+.menuNav{
+    display: flex;
+    padding-top: 5px;
+}
+
+.menuNav li{
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: bold;
+    list-style-type: none;
+    white-space: nowrap;
+}
+
+article{
+    background-image: url(pregunta2/01.jpeg);
+    height: 500px;
+    color: white;
+}
